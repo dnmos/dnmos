@@ -8,4 +8,4 @@ My Websites: [travelq.ru](https://travelq.ru), [visitbudapest.ru](https://visitb
 
 Skills: WordPress, HTML, CSS, JavaScript, PHP, Python, SEO, Content & Affiliate Marketing, Web Analytics.
 
-Connect: [Telegram](https://t.me/dnluzin)
+Connect: [telegram](https://t.me/dnluzin)
